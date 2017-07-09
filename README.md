@@ -1,3 +1,9 @@
+## My solution for this project can be found [here](https://github.com/ssrobinson/CarND-Kidnapped-Vehicle-Project_8/tree/master/src)
+
+*The remainder of this document originated from the Udacity repo which can be found [here](https://github.com/udacity/CarND-Kidnapped-Vehicle-Project)*
+
+---
+
 # Overview
 This repository contains all the code needed to complete the final project for the Localization course in Udacity's Self-Driving Car Nanodegree.
 
